@@ -1,0 +1,77 @@
+[
+{
+  "directory": "/root/mymuduo/build",
+  "command": "/usr/bin/g++  -Dmymuduo_EXPORTS  -O3 -DNDEBUG -fPIC   -o CMakeFiles/mymuduo.dir/Acceptor.cpp.o -c /root/mymuduo/Acceptor.cpp",
+  "file": "/root/mymuduo/Acceptor.cpp"
+},
+{
+  "directory": "/root/mymuduo/build",
+  "command": "/usr/bin/g++  -Dmymuduo_EXPORTS  -O3 -DNDEBUG -fPIC   -o CMakeFiles/mymuduo.dir/Channel.cpp.o -c /root/mymuduo/Channel.cpp",
+  "file": "/root/mymuduo/Channel.cpp"
+},
+{
+  "directory": "/root/mymuduo/build",
+  "command": "/usr/bin/g++  -Dmymuduo_EXPORTS  -O3 -DNDEBUG -fPIC   -o CMakeFiles/mymuduo.dir/CurrentThread.cpp.o -c /root/mymuduo/CurrentThread.cpp",
+  "file": "/root/mymuduo/CurrentThread.cpp"
+},
+{
+  "directory": "/root/mymuduo/build",
+  "command": "/usr/bin/g++  -Dmymuduo_EXPORTS  -O3 -DNDEBUG -fPIC   -o CMakeFiles/mymuduo.dir/EpollPoller.cpp.o -c /root/mymuduo/EpollPoller.cpp",
+  "file": "/root/mymuduo/EpollPoller.cpp"
+},
+{
+  "directory": "/root/mymuduo/build",
+  "command": "/usr/bin/g++  -Dmymuduo_EXPORTS  -O3 -DNDEBUG -fPIC   -o CMakeFiles/mymuduo.dir/EventLoop.cpp.o -c /root/mymuduo/EventLoop.cpp",
+  "file": "/root/mymuduo/EventLoop.cpp"
+},
+{
+  "directory": "/root/mymuduo/build",
+  "command": "/usr/bin/g++  -Dmymuduo_EXPORTS  -O3 -DNDEBUG -fPIC   -o CMakeFiles/mymuduo.dir/EventLoopThread.cpp.o -c /root/mymuduo/EventLoopThread.cpp",
+  "file": "/root/mymuduo/EventLoopThread.cpp"
+},
+{
+  "directory": "/root/mymuduo/build",
+  "command": "/usr/bin/g++  -Dmymuduo_EXPORTS  -O3 -DNDEBUG -fPIC   -o CMakeFiles/mymuduo.dir/EventLoopThreadPoll.cpp.o -c /root/mymuduo/EventLoopThreadPoll.cpp",
+  "file": "/root/mymuduo/EventLoopThreadPoll.cpp"
+},
+{
+  "directory": "/root/mymuduo/build",
+  "command": "/usr/bin/g++  -Dmymuduo_EXPORTS  -O3 -DNDEBUG -fPIC   -o CMakeFiles/mymuduo.dir/InetAddress.cpp.o -c /root/mymuduo/InetAddress.cpp",
+  "file": "/root/mymuduo/InetAddress.cpp"
+},
+{
+  "directory": "/root/mymuduo/build",
+  "command": "/usr/bin/g++  -Dmymuduo_EXPORTS  -O3 -DNDEBUG -fPIC   -o CMakeFiles/mymuduo.dir/Logger.cpp.o -c /root/mymuduo/Logger.cpp",
+  "file": "/root/mymuduo/Logger.cpp"
+},
+{
+  "directory": "/root/mymuduo/build",
+  "command": "/usr/bin/g++  -Dmymuduo_EXPORTS  -O3 -DNDEBUG -fPIC   -o CMakeFiles/mymuduo.dir/Poller.cpp.o -c /root/mymuduo/Poller.cpp",
+  "file": "/root/mymuduo/Poller.cpp"
+},
+{
+  "directory": "/root/mymuduo/build",
+  "command": "/usr/bin/g++  -Dmymuduo_EXPORTS  -O3 -DNDEBUG -fPIC   -o CMakeFiles/mymuduo.dir/Socket.cpp.o -c /root/mymuduo/Socket.cpp",
+  "file": "/root/mymuduo/Socket.cpp"
+},
+{
+  "directory": "/root/mymuduo/build",
+  "command": "/usr/bin/g++  -Dmymuduo_EXPORTS  -O3 -DNDEBUG -fPIC   -o CMakeFiles/mymuduo.dir/TcpConnection.cpp.o -c /root/mymuduo/TcpConnection.cpp",
+  "file": "/root/mymuduo/TcpConnection.cpp"
+},
+{
+  "directory": "/root/mymuduo/build",
+  "command": "/usr/bin/g++  -Dmymuduo_EXPORTS  -O3 -DNDEBUG -fPIC   -o CMakeFiles/mymuduo.dir/TcpServer.cpp.o -c /root/mymuduo/TcpServer.cpp",
+  "file": "/root/mymuduo/TcpServer.cpp"
+},
+{
+  "directory": "/root/mymuduo/build",
+  "command": "/usr/bin/g++  -Dmymuduo_EXPORTS  -O3 -DNDEBUG -fPIC   -o CMakeFiles/mymuduo.dir/Thread.cpp.o -c /root/mymuduo/Thread.cpp",
+  "file": "/root/mymuduo/Thread.cpp"
+},
+{
+  "directory": "/root/mymuduo/build",
+  "command": "/usr/bin/g++  -Dmymuduo_EXPORTS  -O3 -DNDEBUG -fPIC   -o CMakeFiles/mymuduo.dir/TimeStamp.cpp.o -c /root/mymuduo/TimeStamp.cpp",
+  "file": "/root/mymuduo/TimeStamp.cpp"
+}
+]
