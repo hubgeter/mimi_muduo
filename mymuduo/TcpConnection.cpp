@@ -39,7 +39,7 @@ void TcpConnection::send(const std::string& message)
         }else{
 
             //FIXME
-            loop_->runInLoop(std::bind(&TcpConnection::sendInLoop, this, std::string(message)));
+            loop_->runInLoop(std::bind(&TcpConnection::sendInLoop, this, move(std::string(message))));
         }
     }        
 }
